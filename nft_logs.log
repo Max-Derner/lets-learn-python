@@ -1,0 +1,87 @@
+| time: 2022-12-15 14:57:31,263 | severity level: INFO | module: logging_set_up | function: set_up_nft_logger | line number: 49 | module path: /home/max-derner/Python-Lessons/logging_library/logging_set_up.py | process: MainProcess | name of logger: NFT_logger | 
+NFT_logger configured
+
+| time: 2022-12-15 14:57:31,263 | severity level: DEBUG | module: logging_examples | function: <module> | line number: 10 | module path: logging_library/logging_examples.py | process: MainProcess | name of logger: NFT_logger | 
+This message should go to the log file
+
+| time: 2022-12-15 14:57:31,263 | severity level: INFO | module: logging_examples | function: <module> | line number: 11 | module path: logging_library/logging_examples.py | process: MainProcess | name of logger: NFT_logger | 
+So should this
+
+| time: 2022-12-15 14:57:31,263 | severity level: INFO | module: logging_set_up | function: set_up_nft_logger | line number: 49 | module path: /home/max-derner/Python-Lessons/logging_library/logging_set_up.py | process: MainProcess | name of logger: NFT_logger | 
+NFT_logger configured
+
+| time: 2022-12-15 14:57:31,263 | severity level: INFO | module: logging_set_up | function: set_up_nft_logger | line number: 49 | module path: /home/max-derner/Python-Lessons/logging_library/logging_set_up.py | process: MainProcess | name of logger: NFT_logger | 
+NFT_logger configured
+
+| time: 2022-12-15 14:57:31,264 | severity level: DEBUG | module: something_to_call | function: call_me | line number: 6 | module path: /home/max-derner/Python-Lessons/logging_library/something_to_call.py | process: MainProcess | name of logger: NFT_logger | 
+I'm a debug message
+
+| time: 2022-12-15 14:57:31,264 | severity level: DEBUG | module: something_to_call | function: call_me | line number: 6 | module path: /home/max-derner/Python-Lessons/logging_library/something_to_call.py | process: MainProcess | name of logger: NFT_logger | 
+I'm a debug message
+
+| time: 2022-12-15 14:57:31,264 | severity level: INFO | module: something_to_call | function: call_me | line number: 7 | module path: /home/max-derner/Python-Lessons/logging_library/something_to_call.py | process: MainProcess | name of logger: NFT_logger | 
+I'm info Al
+
+| time: 2022-12-15 14:57:31,264 | severity level: INFO | module: something_to_call | function: call_me | line number: 7 | module path: /home/max-derner/Python-Lessons/logging_library/something_to_call.py | process: MainProcess | name of logger: NFT_logger | 
+I'm info Al
+
+| time: 2022-12-15 14:57:31,264 | severity level: WARNING | module: something_to_call | function: call_me | line number: 8 | module path: /home/max-derner/Python-Lessons/logging_library/something_to_call.py | process: MainProcess | name of logger: NFT_logger | 
+I warn
+
+| time: 2022-12-15 14:57:31,264 | severity level: WARNING | module: something_to_call | function: call_me | line number: 8 | module path: /home/max-derner/Python-Lessons/logging_library/something_to_call.py | process: MainProcess | name of logger: NFT_logger | 
+I warn
+
+| time: 2022-12-15 14:57:31,264 | severity level: ERROR | module: something_to_call | function: call_me | line number: 9 | module path: /home/max-derner/Python-Lessons/logging_library/something_to_call.py | process: MainProcess | name of logger: NFT_logger | 
+I'm an error...psych
+
+| time: 2022-12-15 14:57:31,264 | severity level: ERROR | module: something_to_call | function: call_me | line number: 9 | module path: /home/max-derner/Python-Lessons/logging_library/something_to_call.py | process: MainProcess | name of logger: NFT_logger | 
+I'm an error...psych
+
+| time: 2022-12-15 14:57:31,264 | severity level: WARNING | module: logging_examples | function: <module> | line number: 14 | module path: logging_library/logging_examples.py | process: MainProcess | name of logger: NFT_logger | 
+And this, too
+
+| time: 2022-12-15 14:57:31,264 | severity level: WARNING | module: logging_examples | function: <module> | line number: 14 | module path: logging_library/logging_examples.py | process: MainProcess | name of logger: NFT_logger | 
+And this, too
+
+| time: 2022-12-15 14:57:31,264 | severity level: ERROR | module: logging_examples | function: <module> | line number: 15 | module path: logging_library/logging_examples.py | process: MainProcess | name of logger: NFT_logger | 
+And non-ASCII stuff, too, like Øresund and Malmö
+
+| time: 2022-12-15 14:57:31,264 | severity level: ERROR | module: logging_examples | function: <module> | line number: 15 | module path: logging_library/logging_examples.py | process: MainProcess | name of logger: NFT_logger | 
+And non-ASCII stuff, too, like Øresund and Malmö
+
+| time: 2022-12-15 14:57:31,264 | severity level: INFO | module: logging_set_up | function: set_up_nft_logger | line number: 49 | module path: /home/max-derner/Python-Lessons/logging_library/logging_set_up.py | process: MainProcess | name of logger: NFT_logger | 
+NFT_logger configured
+
+| time: 2022-12-15 14:57:31,264 | severity level: INFO | module: logging_set_up | function: set_up_nft_logger | line number: 49 | module path: /home/max-derner/Python-Lessons/logging_library/logging_set_up.py | process: MainProcess | name of logger: NFT_logger | 
+NFT_logger configured
+
+| time: 2022-12-15 14:57:31,264 | severity level: INFO | module: logging_set_up | function: set_up_nft_logger | line number: 49 | module path: /home/max-derner/Python-Lessons/logging_library/logging_set_up.py | process: MainProcess | name of logger: NFT_logger | 
+NFT_logger configured
+
+| time: 2022-12-15 14:57:31,265 | severity level: CRITICAL | module: logging_examples | function: <module> | line number: 23 | module path: logging_library/logging_examples.py | process: MainProcess | name of logger: NFT_logger | 
+Traceback (most recent call last):
+
+  File "logging_library/logging_examples.py", line 19, in <module>
+    some_thing = some_list[3]
+
+IndexError: list index out of range
+
+
+| time: 2022-12-15 14:57:31,265 | severity level: CRITICAL | module: logging_examples | function: <module> | line number: 23 | module path: logging_library/logging_examples.py | process: MainProcess | name of logger: NFT_logger | 
+Traceback (most recent call last):
+
+  File "logging_library/logging_examples.py", line 19, in <module>
+    some_thing = some_list[3]
+
+IndexError: list index out of range
+
+
+| time: 2022-12-15 14:57:31,265 | severity level: CRITICAL | module: logging_examples | function: <module> | line number: 23 | module path: logging_library/logging_examples.py | process: MainProcess | name of logger: NFT_logger | 
+Traceback (most recent call last):
+
+  File "logging_library/logging_examples.py", line 19, in <module>
+    some_thing = some_list[3]
+
+IndexError: list index out of range
+
+
