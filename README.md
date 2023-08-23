@@ -1,3 +1,6 @@
+# First off
+Really sorry that I've just not at all been updating this. I have quite a lot on my plate at the minute and just haven't had the time to migrate more of my examples onto here.
+
 # Python-Lessons
 This is just a space for me to keep all the tings I learn about Python
 
